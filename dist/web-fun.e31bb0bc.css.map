@@ -1,1 +1,0 @@
-{"version":3,"sources":["main.css"],"names":[],"mappings":"AAAA;EACE,wDAA0C;EAC1C,UAAU;AACZ","file":"web-fun.e31bb0bc.css","sourceRoot":"..","sourcesContent":[".main {\n  background: url('./images/background.png');\n  color: red;\n}\n"]}
